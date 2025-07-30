@@ -1,3 +1,4 @@
+// to find the area of rectangle
 import java.util.Scanner;
 
 public class Rectangle {

@@ -1,3 +1,4 @@
+// to accept and display roll number, name and marks in 3 subjects. find total and average.
 import java.util.Scanner;
 
 public class Student {

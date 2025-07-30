@@ -1,3 +1,4 @@
+// to find smallest number from 10 inputs
 import java.util.Scanner;
 public class SmallOfTen {
 
